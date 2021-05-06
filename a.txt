@@ -1,2 +1,3 @@
 this is lisi config
 this is niuqihang test1
+this is niuqihang test2
